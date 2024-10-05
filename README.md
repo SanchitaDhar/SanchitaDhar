@@ -3,6 +3,8 @@ Welcome  to  my  page!
 
 🌱My name is Sanchita Dhar. I'm a passionate data analyst with a kneen interest in turning data into actionable insights. This repository showcase some of my projects that i have done during my learning. I'm always eager to learn and explore new opportunities. Feel free to check out my projects and reach out.
 
+ 🔭 Skills - Python | PostgreSQL | Advanced Excel | PowerBI
+
 <!--
 **SanchitaDhar/SanchitaDhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
